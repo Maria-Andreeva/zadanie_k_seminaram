@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\obj\Debug\net7.0\Num6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\obj\Debug\net7.0\Num6.1.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\obj\Debug\net7.0\Num6.1.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\obj\Debug\net7.0\Num6.1.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\bin\Debug\net7.0\Num6.1.exe
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\bin\Debug\net7.0\Num6.1.deps.json
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\bin\Debug\net7.0\Num6.1.runtimeconfig.json
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\bin\Debug\net7.0\Num6.1.dll
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\bin\Debug\net7.0\Num6.1.pdb
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\obj\Debug\net7.0\Num6.1.dll
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\obj\Debug\net7.0\refint\Num6.1.dll
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\obj\Debug\net7.0\Num6.1.pdb
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\obj\Debug\net7.0\Num6.1.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Seminar3\Num6_DZ\Num6.1\obj\Debug\net7.0\ref\Num6.1.dll
