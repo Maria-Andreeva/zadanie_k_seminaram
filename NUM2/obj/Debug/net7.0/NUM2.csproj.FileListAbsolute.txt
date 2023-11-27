@@ -1,0 +1,14 @@
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\bin\Debug\net7.0\NUM2.exe
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\bin\Debug\net7.0\NUM2.deps.json
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\bin\Debug\net7.0\NUM2.runtimeconfig.json
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\bin\Debug\net7.0\NUM2.dll
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\bin\Debug\net7.0\NUM2.pdb
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\obj\Debug\net7.0\NUM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\obj\Debug\net7.0\NUM2.AssemblyInfoInputs.cache
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\obj\Debug\net7.0\NUM2.AssemblyInfo.cs
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\obj\Debug\net7.0\NUM2.csproj.CoreCompileInputs.cache
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\obj\Debug\net7.0\NUM2.dll
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\obj\Debug\net7.0\refint\NUM2.dll
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\obj\Debug\net7.0\NUM2.pdb
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\obj\Debug\net7.0\NUM2.genruntimeconfig.cache
+C:\Users\BUSINKA\Desktop\SEM4\DZ Sem4\NUM2\obj\Debug\net7.0\ref\NUM2.dll
