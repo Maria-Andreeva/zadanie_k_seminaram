@@ -1,11 +1,5 @@
 ﻿// Задача 1: Задайте одномерный массив из 10 целых чисел от 1 до 100. Найдите количество элементов массива, значения которых лежат в отрезке [20,90].
 
-// int [] array = 10;
-// int min = 1;
-// int max = 100;
-// size = [20,90];
-
-
 int [] CreateArray(int max, int min, int size) 
 {
     int [] array = new int [size];
@@ -32,22 +26,8 @@ int CheckArray(int[] array, int min, int max)
     return count; 
 }
 
-void ShowArray(int [] array)
-{
-    
-    for(int i = 0; i<array.Length;i++)
-    {
-        Console.Write(array[i] + " ");
-    }
-    Console.WriteLine();
-}
-
 int [] array = CreateArray(100, 1, 10);
 
 int count = CheckArray(array, 20, 90);
 
-ShowArray(array);
-
 Console.WriteLine ($"Numbers of elements: {count}");
-
-
