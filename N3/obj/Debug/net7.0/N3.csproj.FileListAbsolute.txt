@@ -1,0 +1,14 @@
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\bin\Debug\net7.0\N3.exe
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\bin\Debug\net7.0\N3.deps.json
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\bin\Debug\net7.0\N3.runtimeconfig.json
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\bin\Debug\net7.0\N3.dll
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\bin\Debug\net7.0\N3.pdb
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\obj\Debug\net7.0\N3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\obj\Debug\net7.0\N3.AssemblyInfoInputs.cache
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\obj\Debug\net7.0\N3.AssemblyInfo.cs
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\obj\Debug\net7.0\N3.csproj.CoreCompileInputs.cache
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\obj\Debug\net7.0\N3.dll
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\obj\Debug\net7.0\refint\N3.dll
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\obj\Debug\net7.0\N3.pdb
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\obj\Debug\net7.0\N3.genruntimeconfig.cache
+C:\Users\BUSINKA\Desktop\SEM3.Функции\N3\obj\Debug\net7.0\ref\N3.dll
