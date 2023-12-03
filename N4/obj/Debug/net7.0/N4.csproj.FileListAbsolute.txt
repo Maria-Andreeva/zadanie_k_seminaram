@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\bin\Debug\net7.0\N4.exe
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\bin\Debug\net7.0\N4.deps.json
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\bin\Debug\net7.0\N4.runtimeconfig.json
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\bin\Debug\net7.0\N4.dll
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\bin\Debug\net7.0\N4.pdb
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\obj\Debug\net7.0\N4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\obj\Debug\net7.0\N4.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\obj\Debug\net7.0\N4.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\obj\Debug\net7.0\N4.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\obj\Debug\net7.0\N4.dll
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\obj\Debug\net7.0\refint\N4.dll
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\obj\Debug\net7.0\N4.pdb
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\obj\Debug\net7.0\N4.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Двумерные массивы ДЗ\N4\obj\Debug\net7.0\ref\N4.dll
