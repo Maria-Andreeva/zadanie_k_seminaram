@@ -16,26 +16,34 @@ while (true)
         {
             break;
         }
-    
-        int sum = 0;
-
-        for(int i = 0; i < temp.Length; i++)
+        else if (Int32.TryParse(temp, out int dummy))
         {
-            sum += Convert.ToInt32(temp[i]);
-        }        
+            int sum = 0;
+
+            for(int i = 0; i < temp.Length; i++)
+            {
+                int number;
+
+                if(Int32.TryParse(temp[i].ToString(), out number) )
+                {
+                    sum += number;
+                } 
+            }        
         
-
-        // for(int i = temp.Length -1; i>0; i--)
-        // {
-        //     sum += Convert.ToInt32(temp[i-1]);
-        // }
-
-        if(sum%2==0)
-        {
-            break;
+            if(sum%2==0)
+            {
+                break;
+            } 
         }
-    }
+        else
+        {
+            Console.WriteLine("Wrong number");
+        }
 
+        
+    }
 }
+
+
 
 
